@@ -6,15 +6,16 @@ A full-stack application for ustilizing Twilio product using Symfony and Vue.js.
 
 - Clone this repository and then change your current your directory to the root folder of the project.
 
-- Next start up the backend server:
-
-    ```bash
-    $ php -S localhost:9030 -t public
-    ```
 - Create the `.env` file:
 
     ```bash
      $ cp .env.example .env
+    ```
+    
+- Next start up the backend server:
+
+    ```bash
+    $ php -S localhost:9030 -t public
     ```
 
 - Finally, start up the frontend development server so that changes we make to the Vue files will be compiled:
