@@ -1,6 +1,6 @@
 # How to create a basic Symfony app with Vue.JS and Twilio
 
-A full-stack application for ustilizing Twilio prodcut using Symfony and Vue.js. You can read more [here]().
+A full-stack application for ustilizing Twilio product using Symfony and Vue.js. You can read more [here]().
 
 ## How to install
 
